@@ -1,12 +1,11 @@
 {
   "name": "json-sass--virajsoni06",
-  "version": "1.3.5",
+  "version": "2.0.0",
   "description": "Transform JSON into scss syntax Sass.",
   "main": "lib/jsonSass.js",
   "bin": "lib/bin/json-sass",
   "scripts": {
-    "test": "make test",
-    "prepublish": "npm test"
+    "test": "make test"
   },
   "keywords": [
     "sass",
