@@ -1,5 +1,5 @@
 {
-  "name": "json-sass",
+  "name": "json-sass--virajsoni06",
   "version": "1.3.5",
   "description": "Transform JSON into scss syntax Sass.",
   "main": "lib/jsonSass.js",
